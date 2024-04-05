@@ -1,18 +1,18 @@
-# Sastra CGPA Calculator App
-A simple and interactive Sastra CGPA and SGPA Calculator App.
+# SGSITS CGPA Calculator App
+A simple and interactive SGSITS CGPA and SGPA Calculator App.
 
 
 ##  ✨Features
 - [x] Calculate SGPA & CGPA.
 - [x] Visualize Sem wise SGPA in Graph.
 - [x] Predict required SGPA.
-- [x] Sastra News Updates.
+- [x] SGSITS News Updates.
 - [x] Store SGPA(s).
 - [x] Dark Mode.
 
 ## ⬇Download 
 Download and try the app. 
-Download from Releases page [**here**](https://github.com/saif191020/SastraCGPA/releases/tag/v1.0) or from Google Drive Link [**here**](https://drive.google.com/file/d/1QU0JszIKGMIXiXApe5rSAkEQ3wa3bS-9/view?usp=sharing).
+Download from Releases page [**here**](https://github.com/saif191020/SGSITSCGPA/releases/tag/v1.0) or from Google Drive Link [**here**](https://drive.google.com/file/d/1QU0JszIKGMIXiXApe5rSAkEQ3wa3bS-9/view?usp=sharing).
 
 <table style="width:100%">
   <tr>
@@ -28,7 +28,7 @@ Download from Releases page [**here**](https://github.com/saif191020/SastraCGPA/
   <tr>
     <th>Dark Theme </th>
     <th>SGPA Predictor </th>
-    <th>Sastra News </th>
+    <th>SGSITS News </th>
   </tr>
     <tr>
     <td><img src="ScreenShots/2.jpg"/></td> 
@@ -41,7 +41,7 @@ Download from Releases page [**here**](https://github.com/saif191020/SastraCGPA/
 | Name | Usage |
 |:------:|:-------:|
 |[**MPAndroidChart**](https://github.com/PhilJay/MPAndroidChart)| Used to plot the SGPA graph|
-|[**JSoup**](https://jsoup.org/)| Used to get details from SASTRA website |
+|[**JSoup**](https://jsoup.org/)| Used to get details from SGSITS website |
 
 
 
